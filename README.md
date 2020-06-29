@@ -1,4 +1,4 @@
 taskmanager
 ===========
 
-Taskmanager
+Taskmanager created with php framework codeigniter and data base mysql
